@@ -1,9 +1,9 @@
-package com.encapsulation;
+package array;
 
 import java.util.Arrays;
 
 public class ArrayClassdemo {
-	public static void main(String[] args) {
+public static void main(String[] args) {
 
 		
 		int intArr[] = { 10, 20, 15, 22, 35, 18 , 14 };
@@ -53,4 +53,5 @@ public class ArrayClassdemo {
 
 
 }
+
 }
